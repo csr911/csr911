@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sarwan Reddy</h1>
 
-<h2 align="left">An AI Enthusiast</h2>
+<h2 align="right">An AI Enthusiast</h2>
 
 <h3 align="center">Passionate about technology and some extent of coding.</h3>
 
