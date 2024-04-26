@@ -36,6 +36,11 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=csr911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=csr911&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=csr911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### Connect With Me On..
 
 <a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]"> **Linkedin** <img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
