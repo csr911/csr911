@@ -38,11 +38,11 @@
 
 ### Connect With Me On..
 
-<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]">Linkedin<img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
+<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]"> **Linkedin** <img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
      <br>
      
-<a href="[mailto:csreddy1119@gmail.com]"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
+<a href="[mailto:csreddy1119@gmail.com]"> **Gmail** <img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
      <br>
      
-<a href="[https://www.instagram.com/sarwan_911/]"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
+<a href="[https://www.instagram.com/sarwan_911/]"> **Instagram** <img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
      <br>
