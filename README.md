@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sarwan Reddy</h1>
 
-<h2 align="center"> I'm an AI Enthusiast</h2>
+<h2 align="left">An AI Enthusiast</h2>
 
 <h3 align="center">Passionate about technology and some extent of coding.</h3>
 
@@ -38,7 +38,7 @@
 
 ### Connect With Me On..
 
-<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
+<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]">Linkedin<img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
      <br>
      
 <a href="[mailto:csreddy1119@gmail.com]"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
