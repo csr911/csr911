@@ -41,13 +41,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=csr911&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=csr911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=csr911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=csr911&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ### Connect With Me On..
 
-<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]"> **Linkedin** <img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
+<a href="[https://www.linkedin.com/in/cidde-sarwan-728064223/]"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/linkedin.png"></a>
      <br>
      
-<a href="[mailto:csreddy1119@gmail.com]"> **Gmail** <img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
-     <br>
-     
-<a href="[https://www.instagram.com/sarwan_911/]"> **Instagram** <img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
+<a href="[mailto:csreddy1119@gmail.com]"><img height="25" src="https://github.com/RK1905101/RK1905101/blob/master/mail.png"></a>
+     <br> <a href="[https://www.instagram.com/sarwan_911/]"><img height="35" src="https://github.com/RK1905101/RK1905101/blob/master/in.png"></a>
      <br>
