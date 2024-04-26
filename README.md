@@ -1,6 +1,6 @@
-<h1 align="left">Hi there, 👋 I'm Sarwan Reddy</h1>
+<h1 align="center">Hi there 👋, I'm Sarwan Reddy</h1>
 
-<h1 align="center">Creative and driven graduation student with practised communication skill. Reliable with deadlines and dedicated to following instructions. Passionate about technology and some extent of coding.</h1>
+<h1 align="center">Passionate about technology and some extent of coding.</h1>
 
 - 👨‍💻 My portfolio [https://csr911.github.io/portfolio/](https://csr911.github.io/portfolio/).
   
@@ -16,6 +16,6 @@
 
 - 📫 How to reach me **csreddy1119@gmail.com**
 
-- ⚡ Fun fact **Ping me in any conversation related to space, science, or politics, but I also love to be a part of humorous chats.**
-
+- ⚡ Fun fact ...
+  
 <p align="left">
