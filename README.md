@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Sarwan Reddy
+<h1 align="left">Hi there, 👋 I'm Sarwan Reddy</h1>
 
 <h1 align="center">Creative and driven graduation student with practised communication skill. Reliable with deadlines and dedicated to following instructions. Passionate about technology and some extent of coding.</h1>
 
@@ -18,5 +18,4 @@
 
 - ⚡ Fun fact **Ping me in any conversation related to space, science, or politics, but I also love to be a part of humorous chats.**
 
-<h1 align="left">Connect with me:</h3>
 <p align="left">
